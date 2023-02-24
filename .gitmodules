@@ -1,0 +1,3 @@
+[submodule "satatama"]
+	path = satatama
+	url = git@github.com:Collaboration-Oriented-Programming/satatama.git
